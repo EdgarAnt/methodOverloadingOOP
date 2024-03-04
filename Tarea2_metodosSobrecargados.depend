@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1708838158 source:c:\users\laptop\desktop\tarea2_metodossobrecargados\main.cpp
+	<iostream>
+	<ctime>
+	"fecha.h"
+
+1708834107 c:\users\laptop\desktop\tarea2_metodossobrecargados\include\fecha.h
+
+1708834126 source:c:\users\laptop\desktop\tarea2_metodossobrecargados\src\fecha.cpp
+	<iostream>
+	<ctime>
+	"fecha.h"
+
